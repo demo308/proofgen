@@ -36,8 +36,10 @@ By using this Tool, you agree that you hold responsibility and accountability of
 
 #### Installation
 ```
-$ git clone https://github.com/demo308/proofgen.git
-$ python -m pip install -r requirements.txt
-$ python main.py
+git clone https://github.com/demo308/proofgen.git
+
+python -m pip install -r requirements.txt
+
+python main.py
 ```
 
