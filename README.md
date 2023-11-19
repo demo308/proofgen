@@ -31,18 +31,13 @@ By using this Tool, you agree that you hold responsibility and accountability of
 }
 ```
 
-#### 1st・Installation (Automated installation)
-```
-Launch the setup.bat file. A new file will be created. You will only have to launch it.
+
 ```
 
-#### 2nd・Installation (Manual installation)
+#### Installation
 ```
-$ git clone https://github.com/Levyka/Discord-Fake-Nitro-Proof-Generator.git
+$ git clone https://github.com/demo308/proofgen.git
 $ python -m pip install -r requirements.txt
 $ python main.py
 ```
 
-## Additional Informations
-General Informations:
-- If you find any malfunction, contact me.
